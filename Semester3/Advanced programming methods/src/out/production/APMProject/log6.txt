@@ -1,0 +1,523 @@
+Execution Stack 
+ (name: v type: int;(v=4;(While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);)))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=4;(While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=4;(While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=4;(While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=4;(While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);)
+v=4
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);)
+v=4
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);)
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (While(key: v>0){(print(key: v);;v=key: v-1)};print(key: v);)
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->4
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->4
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->4
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->3
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->3
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->3
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->3
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->3
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->3
+Out
+4
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->3
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->3
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->2
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->2
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->2
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->2
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->2
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->2
+Out
+4
+3
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->2
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->2
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->1
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->1
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->1
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+(print(key: v);;v=key: v-1)
+Symbols Table 
+v->1
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->1
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+print(key: v);
+Symbols Table 
+v->1
+Out
+4
+3
+2
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->1
+Out
+4
+3
+2
+1
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+v=key: v-1
+Symbols Table 
+v->1
+Out
+4
+3
+2
+1
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->0
+Out
+4
+3
+2
+1
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+While(key: v>0){(print(key: v);;v=key: v-1)}
+Symbols Table 
+v->0
+Out
+4
+3
+2
+1
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+Symbols Table 
+v->0
+Out
+4
+3
+2
+1
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+Symbols Table 
+v->0
+Out
+4
+3
+2
+1
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+v->0
+Out
+4
+3
+2
+1
+0
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+v->0
+Out
+4
+3
+2
+1
+0
+
+Heap table 
+File Table

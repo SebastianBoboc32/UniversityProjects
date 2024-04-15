@@ -1,0 +1,89 @@
+Execution Stack 
+ (name: v type: int;(v=2;print(key: v);))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=2;print(key: v);)
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=2;print(key: v);)
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=2;print(key: v);)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=2;print(key: v);)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+v=2
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+v=2
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+Symbols Table 
+v->2
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+Symbols Table 
+v->2
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+v->2
+Out
+2
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+v->2
+Out
+2
+
+Heap table 
+File Table

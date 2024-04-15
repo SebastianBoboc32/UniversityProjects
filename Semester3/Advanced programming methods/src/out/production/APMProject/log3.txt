@@ -1,0 +1,189 @@
+Execution Stack 
+ (name: a type: bool;(name: v type: int;(a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)))
+name: a type: bool
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)))
+name: a type: bool
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)))
+Symbols Table 
+a->false
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)))
+Symbols Table 
+a->false
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);))
+name: v type: int
+Symbols Table 
+a->false
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);))
+name: v type: int
+Symbols Table 
+a->false
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);))
+Symbols Table 
+a->false
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=true;(IF(key: a)THEN(v=2ELSE(v=3);print(key: v);))
+Symbols Table 
+a->false
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)
+a=true
+Symbols Table 
+a->false
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)
+a=true
+Symbols Table 
+a->false
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)
+Symbols Table 
+a->true
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (IF(key: a)THEN(v=2ELSE(v=3);print(key: v);)
+Symbols Table 
+a->true
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+IF(key: a)THEN(v=2ELSE(v=3)
+Symbols Table 
+a->true
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+IF(key: a)THEN(v=2ELSE(v=3)
+Symbols Table 
+a->true
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+v=2
+Symbols Table 
+a->true
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+v=2
+Symbols Table 
+a->true
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+Symbols Table 
+a->true
+v->2
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: v);
+Symbols Table 
+a->true
+v->2
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+a->true
+v->2
+Out
+2
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+a->true
+v->2
+Out
+2
+
+Heap table 
+File Table

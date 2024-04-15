@@ -1,0 +1,231 @@
+Execution Stack 
+ (name: v type: Ref(int);(NewStmt(v', 20);(name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));)))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(v', 20);(name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))))
+name: v type: Ref(int)
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(v', 20);(name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))))
+name: v type: Ref(int)
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(v', 20);(name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))))
+Symbols Table 
+v->(int,0)
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(v', 20);(name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))))
+Symbols Table 
+v->(int,0)
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));)))
+NewStmt(v', 20)
+Symbols Table 
+v->(int,0)
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));)))
+NewStmt(v', 20)
+Symbols Table 
+v->(int,0)
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));)))
+Symbols Table 
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (name: a type: Ref(Ref(int));(NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));)))
+Symbols Table 
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))
+name: a type: Ref(Ref(int))
+Symbols Table 
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))
+name: a type: Ref(Ref(int))
+Symbols Table 
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))
+Symbols Table 
+a->(Ref(int),0)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (NewStmt(a', key: v);(NewStmt(v', 30);print(rH(rH(key: a)));))
+Symbols Table 
+a->(Ref(int),0)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (NewStmt(v', 30);print(rH(rH(key: a)));)
+NewStmt(a', key: v)
+Symbols Table 
+a->(Ref(int),0)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (NewStmt(v', 30);print(rH(rH(key: a)));)
+NewStmt(a', key: v)
+Symbols Table 
+a->(Ref(int),0)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+File Table
+Execution Stack 
+ (NewStmt(v', 30);print(rH(rH(key: a)));)
+Symbols Table 
+a->(Ref(int),2)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+2->(int,1)
+File Table
+Execution Stack 
+ (NewStmt(v', 30);print(rH(rH(key: a)));)
+Symbols Table 
+a->(Ref(int),2)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+2->(int,1)
+File Table
+Execution Stack 
+ print(rH(rH(key: a)));
+NewStmt(v', 30)
+Symbols Table 
+a->(Ref(int),2)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+2->(int,1)
+File Table
+Execution Stack 
+ print(rH(rH(key: a)));
+NewStmt(v', 30)
+Symbols Table 
+a->(Ref(int),2)
+v->(int,1)
+Out
+
+Heap table 
+1->20
+2->(int,1)
+File Table
+Execution Stack 
+ print(rH(rH(key: a)));
+Symbols Table 
+a->(Ref(int),2)
+v->(int,3)
+Out
+
+Heap table 
+1->20
+2->(int,1)
+3->30
+File Table
+Execution Stack 
+ print(rH(rH(key: a)));
+Symbols Table 
+a->(Ref(int),2)
+v->(int,3)
+Out
+
+Heap table 
+1->20
+2->(int,1)
+3->30
+File Table
+Execution Stack 
+ Symbols Table 
+a->(Ref(int),2)
+v->(int,3)
+Out
+20
+
+Heap table 
+1->20
+2->(int,1)
+3->30
+File Table
+Execution Stack 
+ Symbols Table 
+a->(Ref(int),2)
+v->(int,3)
+Out
+20
+
+Heap table 
+1->20
+2->(int,1)
+3->30
+File Table

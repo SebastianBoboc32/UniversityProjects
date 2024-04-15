@@ -1,0 +1,169 @@
+Execution Stack 
+ (name: a type: int;(name: b type: int;(a=2+3*5;(b=key: a+1;print(key: b);))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: b type: int;(a=2+3*5;(b=key: a+1;print(key: b);)))
+name: a type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: b type: int;(a=2+3*5;(b=key: a+1;print(key: b);)))
+name: a type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: b type: int;(a=2+3*5;(b=key: a+1;print(key: b);)))
+Symbols Table 
+a->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: b type: int;(a=2+3*5;(b=key: a+1;print(key: b);)))
+Symbols Table 
+a->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=2+3*5;(b=key: a+1;print(key: b);))
+name: b type: int
+Symbols Table 
+a->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=2+3*5;(b=key: a+1;print(key: b);))
+name: b type: int
+Symbols Table 
+a->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=2+3*5;(b=key: a+1;print(key: b);))
+Symbols Table 
+a->0
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (a=2+3*5;(b=key: a+1;print(key: b);))
+Symbols Table 
+a->0
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (b=key: a+1;print(key: b);)
+a=2+3*5
+Symbols Table 
+a->0
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (b=key: a+1;print(key: b);)
+a=2+3*5
+Symbols Table 
+a->0
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (b=key: a+1;print(key: b);)
+Symbols Table 
+a->17
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (b=key: a+1;print(key: b);)
+Symbols Table 
+a->17
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: b);
+b=key: a+1
+Symbols Table 
+a->17
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: b);
+b=key: a+1
+Symbols Table 
+a->17
+b->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: b);
+Symbols Table 
+a->17
+b->18
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ print(key: b);
+Symbols Table 
+a->17
+b->18
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+a->17
+b->18
+Out
+18
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+a->17
+b->18
+Out
+18
+
+Heap table 
+File Table

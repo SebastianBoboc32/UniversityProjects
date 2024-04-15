@@ -1,0 +1,21 @@
+Execution Stack 
+ print(5<=7);
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+Out
+true
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+Out
+true
+
+Heap table 
+File Table

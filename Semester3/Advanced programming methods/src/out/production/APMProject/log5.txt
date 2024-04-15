@@ -1,0 +1,863 @@
+Execution Stack 
+ (name: varf type: string;(varf=C:\Users\Sebastian\workspace\APMProject\src\test.in;(Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (varf=C:\Users\Sebastian\workspace\APMProject\src\test.in;(Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))))
+name: varf type: string
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (varf=C:\Users\Sebastian\workspace\APMProject\src\test.in;(Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))))
+name: varf type: string
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (varf=C:\Users\Sebastian\workspace\APMProject\src\test.in;(Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))))
+Symbols Table 
+varf->
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (varf=C:\Users\Sebastian\workspace\APMProject\src\test.in;(Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))))
+Symbols Table 
+varf->
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))))
+varf=C:\Users\Sebastian\workspace\APMProject\src\test.in
+Symbols Table 
+varf->
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))))
+varf=C:\Users\Sebastian\workspace\APMProject\src\test.in
+Symbols Table 
+varf->
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (Open the file null;(name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))
+Open the file null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))
+Open the file null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (name: varc type: int;(Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))
+name: varc type: int
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))
+name: varc type: int
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->0
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null))))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->0
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))
+Read from file null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->0
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))
+Read from file null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->0
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;(Read from file null;(print(key: varc);;CloseRfile: null)))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;CloseRfile: null))
+print(key: varc);
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;CloseRfile: null))
+print(key: varc);
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;CloseRfile: null))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (Read from file null;(print(key: varc);;CloseRfile: null))
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;CloseRfile: null)
+Read from file null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;CloseRfile: null)
+Read from file null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->50
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;CloseRfile: null)
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ (print(key: varc);;CloseRfile: null)
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ CloseRfile: null
+print(key: varc);
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ CloseRfile: null
+print(key: varc);
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ CloseRfile: null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+15
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ CloseRfile: null
+Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+15
+
+Heap table 
+File Table
+C:\Users\Sebastian\workspace\APMProject\src\test.in
+Execution Stack 
+ Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+15
+
+Heap table 
+File Table
+Execution Stack 
+ Symbols Table 
+varf->C:\Users\Sebastian\workspace\APMProject\src\test.in
+varc->15
+Out
+50
+15
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+v=10
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+v=10
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+NewStmt(a', 22)
+Symbols Table 
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+NewStmt(a', 22)
+Symbols Table 
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+v=10
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+v=10
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+NewStmt(a', 22)
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+NewStmt(a', 22)
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: v type: int;(name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))))
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+name: v type: int
+Symbols Table 
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (name: a type: Ref(int);(v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))))
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+name: a type: Ref(int)
+Symbols Table 
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (v=10;(NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))))
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+v=10
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+v=10
+Symbols Table 
+a->(int,0)
+v->0
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ (NewStmt(a', 22);((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+NewStmt(a', 22)
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+NewStmt(a', 22)
+Symbols Table 
+a->(int,0)
+v->10
+Out
+
+Heap table 
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+Symbols Table 
+a->(int,1)
+v->10
+Out
+
+Heap table 
+1->22
+File Table
+Execution Stack 
+ ((wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)));(print(key: v);;print(rH(key: a));))
+Symbols Table 
+a->(int,1)
+v->10
+Out
+
+Heap table 
+1->22
+File Table
+Execution Stack 
+ (print(key: v);;print(rH(key: a));)
+(wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+a->(int,1)
+v->10
+Out
+
+Heap table 
+1->22
+File Table
+Execution Stack 
+ (print(key: v);;print(rH(key: a));)
+(wH(a',30);(v=32;(print(key: v);;print(rH(key: a));)))
+Symbols Table 
+a->(int,1)
+v->10
+Out
+
+Heap table 
+1->22
+File Table
+Execution Stack 
+ (print(key: v);;print(rH(key: a));)
+(v=32;(print(key: v);;print(rH(key: a));))
+wH(a',30)
+Symbols Table 
+a->(int,1)
+v->10
+Out
+
+Heap table 
+1->22
+File Table
+Execution Stack 
+ (print(key: v);;print(rH(key: a));)
+(v=32;(print(key: v);;print(rH(key: a));))
+wH(a',30)
+Symbols Table 
+a->(int,1)
+v->10
+Out
+
+Heap table 
+1->22
+File Table

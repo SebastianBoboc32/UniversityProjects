@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectNowTry2", "InjectNowTry2\InjectNowTry2.csproj", "{04406312-3FF3-43A5-A84A-7BFDF2EEE9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04406312-3FF3-43A5-A84A-7BFDF2EEE9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04406312-3FF3-43A5-A84A-7BFDF2EEE9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04406312-3FF3-43A5-A84A-7BFDF2EEE9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04406312-3FF3-43A5-A84A-7BFDF2EEE9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C17DA4C7-4515-418F-8BF6-B7BE33C41E4E}
+	EndGlobalSection
+EndGlobal
