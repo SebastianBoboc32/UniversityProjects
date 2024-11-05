@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- RecyclerView for the list of recipes -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recipeListRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Input fields and update button -->
+    <EditText
+        android:id="@+id/recipeTitleInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Recipe Title"
+        android:padding="12dp"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/recipeCategoryInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Category"
+        android:padding="12dp"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/recipeIngredientsInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingredients (comma-separated)"
+        android:padding="12dp"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/recipeInstructionsInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingredients (comma-separated)"
+        android:padding="12dp"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/recipeTimeInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cook Time (mins)"
+        android:inputType="number"
+        android:padding="12dp"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/updateRecipeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Recipe" />
+</LinearLayout>

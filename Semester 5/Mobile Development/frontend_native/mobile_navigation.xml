@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_recipe_list">
+
+    <!-- Existing fragments -->
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.myapplication.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.myapplication.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.myapplication.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+
+    <!-- Recipe List Fragment -->
+    <fragment
+        android:id="@+id/navigation_recipe_list"
+        android:name="com.example.myapplication.RecipeListFragment"
+        android:label="Recipe List"
+        tools:layout="@layout/fragment_recipe_list" >
+        <!-- Action to AddRecipeFragment -->
+        <action
+            android:id="@+id/action_recipeListFragment_to_addRecipeFragment"
+            app:destination="@id/addRecipeFragment" />
+
+        <!-- Action to UpdateRecipeFragment -->
+        <action
+            android:id="@+id/action_recipeListFragment_to_updateRecipeFragment"
+            app:destination="@id/updateRecipeFragment" />
+    </fragment>
+
+    <!-- Add Recipe Fragment -->
+    <fragment
+        android:id="@+id/addRecipeFragment"
+        android:name="com.example.myapplication.AddRecipeFragment"
+        android:label="Add Recipe"
+        tools:layout="@layout/fragment_add_recipe" />
+
+    <!-- Update Recipe Fragment with Argument -->
+    <fragment
+        android:id="@+id/updateRecipeFragment"
+        android:name="com.example.myapplication.UpdateRecipeFragment"
+        android:label="Update Recipe"
+        tools:layout="@layout/fragment_update_recipe">
+        <argument
+            android:name="recipe"
+            app:argType="com.example.myapplication.Recipe" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/deleteRecipeFragment"
+        android:name="com.example.myapplication.DeleteRecipeFragment"
+        android:label="Delete Recipe"
+        tools:layout="@layout/fragment_delete_recipe">
+        <argument
+            android:name="recipe"
+            app:argType="com.example.myapplication.Recipe" />
+    </fragment>
+</navigation>
